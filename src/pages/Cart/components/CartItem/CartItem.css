@@ -1,0 +1,23 @@
+.cart-body{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.card-btn {
+  margin: auto;
+  background-color:lightgrey;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 8px;
+  min-width: 60px;
+}
+
+.empty-cart{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}

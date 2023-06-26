@@ -1,27 +1,31 @@
-const products = [
+export const Data = [
   {
-    id: "1",
+    id: "11",
     title: "Raspberry and custard muffins",
     difficulty: "Easy",
     image: "https://apipics.s3.amazonaws.com/cakes_api/1.jpg",
+    price: 500
   },
   {
     id: "2",
     title: "Lemon and blackberry stripe cake",
     difficulty: "A challenge",
     image: "https://apipics.s3.amazonaws.com/cakes_api/2.jpg",
+    price: 600
   },
   {
     id: "3",
     title: "Paul Hollywood’s chocolate fudge cake",
     difficulty: "Easy",
     image: "https://apipics.s3.amazonaws.com/cakes_api/3.jpg",
+    price: 550
   },
   {
     id: "4",
     title: "Lemon and strawberry meringue cake",
     difficulty: "Easy",
     image: "https://apipics.s3.amazonaws.com/cakes_api/4.jpg",
+    price: 650
   },
 //   {
 //     id: "5",

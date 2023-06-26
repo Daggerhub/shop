@@ -1,0 +1,21 @@
+.cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.checkout{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 16px auto;
+    flex-direction: column;
+}
+
+.checkout-btn{
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+}
